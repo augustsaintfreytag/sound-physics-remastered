@@ -1,6 +1,6 @@
 # Sound Physics Remastered
 
-> This is a fork of [Sound Physics Fabric](https://github.com/vlad2305m/Sound-Physics-Fabric) by [vlad2305m](https://github.com/vlad2305m) which is a fork of [Sound Physics](https://github.com/sonicether/Sound-Physics) by [Sonic Ether](https://github.com/sonicether).
+> This is a fork of [Sound Physics Remastered](https://github.com/henkelmax/sound-physics-remastered) by [henkelmax](https://github.com/henkelmax) which is a fork of [Sound Physics Fabric](https://github.com/vlad2305m/Sound-Physics-Fabric) by [vlad2305m](https://github.com/vlad2305m) which is a fork of [Sound Physics](https://github.com/sonicether/Sound-Physics) by [Sonic Ether](https://github.com/sonicether). The feature developed in this fork (thread safety) has since been merged into the actively maintained project by [henkelmax](https://github.com/henkelmax).
 
 A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
 
